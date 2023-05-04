@@ -1,4 +1,4 @@
-# Group B's Project Repository 
+# CSC 342 - Group B's Project Repository 
 ***
 ## [Project Proposal](Proposal/README.md)
 ## [Milestone 1](Milestone1/README.md)
