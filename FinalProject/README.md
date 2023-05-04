@@ -1,51 +1,17 @@
 # Musify
 ## Group [B]: Final Project
 
-### What works
-- Searching
-- Making and editing all review types
-- Making, editing, and deleting playlists
-- Home page
+### Contributions:
 
+Cameron: Worked on the backend, authentication, database integration, installability, and offline functionality
 
-### What doesn't work
-- Proper redirection when making a new review when offline
+Henry: Developed frontend besides playlists
 
-### Pages
-All pictures and text you visit from these pages are cached. Upon a chache miss, you will be redirected to the offline page.
-If you update or make a review, you will also be redirected to the offline page.
-
-- Home
-
-You can click the home icon or musify at the top.
-
-- Login
-
-This is the base route. You will automatically be redirected here
-- Register
-
-You can get here from the login page.
-- Profile
-
-Hit the person icon at the top.
-- Search
-
-Click the magnifying glass icon at the top.
-- Song, Album, Artist review pages
-
-Click on any picture of an artist, album, or song on home or profile or search for them.
+Utkrisht: Frontend and backend for playlist functionality
 
 ### Caching strategy:
 We chose a network-first strategy so that when the user is online, they always get the most up to date information.
 If there is a connection issue, the cache is used for everything saved from get requests. If there is a cache-miss for get requests, the offline page is shown. If a post is made, the user is presenting with an offline page. 
-
-### Contributions:
-
-Cameron: Worked on making the installable and offline functionality
-
-Henry: Developed dyanmic fe besides playlists
-
-Utkrisht: Playlist functionality and api client routes for playlists
 
 ### API Routes
 
