@@ -1,6 +1,6 @@
 # CSC 342 - Group B's Project Repository 
 ***
-A music review web app written in javascript, React, and CSS. More details in the project Proposal Readme.
+A music review progressive web app written in javascript, React, and CSS. More details in the project Proposal Readme.
 
 Created by Utkrisht Mendiratta, Henry Pinyan, and Cameron Seitz for CSC 342 at NC State.
 
