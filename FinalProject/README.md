@@ -96,4 +96,4 @@ Playlists |    ✅    |
 Search | ✅ | 
 
 ### ER Diagram
-![image](https://github.ncsu.edu/engr-csc342/csc342-2023Spring-groupB/blob/master/FinalProject/er_diagram.png)
+![image](https://user-images.githubusercontent.com/91702651/236304365-3f81edea-aca8-4659-939a-2628d485ed4a.png)
