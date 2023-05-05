@@ -4,7 +4,7 @@ A music review progressive web app using Express, React, and CSS. More details i
 
 Created by Utkrisht Mendiratta, Henry Pinyan, and Cameron Seitz for CSC 342 at NC State.
 
-To run, open the Final Project app and use Docker:
+To run, open the Final Project folder and use Docker:
 `docker-compose up --build`
 ## [Project Proposal](Proposal/README.md)
 ## [Final Project](FinalProject/README.md)
